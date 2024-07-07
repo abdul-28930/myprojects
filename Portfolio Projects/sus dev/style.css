@@ -1,0 +1,239 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap);
+
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.list {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+    letter-spacing: 0.2rem;
+    font-weight: bolder;
+    color: #B99470;
+    font-size: larger;
+    background: #FFF8DC;
+    margin: 0;
+}
+
+/* Buttons top */
+
+.button {
+    padding: 10px 20px;
+    border: 2px solid transparent;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+.button-signup {
+    background-color: #28a745; /* A green color to make the Sign Up button stand out */
+}
+
+.button:hover, .button:focus {
+    background-color: black;
+    border-color: black;
+}
+
+.button-signup:hover, .button-signup:focus {
+    background-color: black;
+    border-color: black;
+}
+
+.list {
+    list-style: none; /* Removes bullet points from the list */
+    padding-left: 0; /* Removes padding from the list */
+}
+
+/* Additional styles for layout and positioning */
+nav ul {
+    display: flex; /* This will horizontally align your menu items */
+    justify-content: space-between; /* This will add space between your menu items */
+    align-items: center; /* This will vertically center your items */
+    padding: 10px; /* Adjusts the padding around the navigation */
+}
+
+nav .logo {
+    font-weight: bold; /* Makes the logo text bold */
+    font-size: 1.5em; /* Increases the size of the logo text */
+}
+
+
+
+.logo {
+    padding-left: 20px;
+}
+
+.signup {
+    padding-left: 1010px;
+}
+
+.login {
+    padding-left: 50px;
+}
+
+.list-item a:hover {
+    color: black;
+}
+
+.video-container {
+    height: 500px;
+    width: 100%;
+    position: relative;
+    margin-top: 0px;
+}
+
+.video-container video {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    object-fit: cover;
+    z-index: 0;
+}
+
+.video-container h2 {
+    z-index: 0;
+    text-align: center;
+    position: absolute;
+    font-size: 15rem;
+    width: 100%;
+    height: 100%;
+    background: white;
+    text-transform: uppercase;
+    color: #000;
+    line-height: 30rem;
+    mix-blend-mode: screen;
+    margin: 0;
+}
+
+.text-container {
+    background: #FFF8DC;
+}
+
+.text-container h2 {
+    padding: 200px 200px 200px 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    font-family: "Montserrat", sans-serif;
+    letter-spacing: 0.5rem;
+    font-weight: lighter;
+    color: #B99470;
+    margin: 0;
+}
+
+.div-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin: 10px;
+    padding: 200px 200px 200px 200px;
+    background: #B99470;
+    margin: 0;
+}
+
+.div-container h1 {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #FFF8DC;
+}
+
+.div-container p {
+    display: flex;
+    justify-content: right;
+    text-transform: uppercase;
+    letter-spacing: 0.5rem;
+    font-weight: lighter;
+    color: #FFF8DC;
+    padding: 15px;
+    font-size: 14px;
+}
+
+.footer-container {
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 40px;
+    display: flex;
+    position: static;
+    background: #FFF8DC;
+}
+
+.footer-column {
+    display: flex;
+    justify-content: space-between;
+    color: #B99470;
+    padding: 100px 100px 100px 100px;
+}
+
+.footer-heading {
+    margin-bottom: 20px;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    font-size: 1rem;
+    font-family: "Montserrat", sans-serif;
+}
+
+.social-item, .project-item, .client-item {
+    list-style: none;
+    display: flex;
+    justify-content: left;
+    align-items: flex-start;   
+}
+
+.column2 ul , .column3 ul, .column4 ul {
+    padding-inline-start: 0;
+}
+
+.column2 li a,.column3 li a,.column4 li a {
+    text-decoration: none;
+    color: #B99470;
+    font-weight: lighter;
+    font-family: "Montserrat", sans-serif;
+    font-size: 0.9rem;
+    line-height: 1.5rem;
+}
+
+.column2 li a:hover {
+    color: #A79277;
+    cursor: pointer;
+}
+
+.column3 li a:hover {
+    color: #A79277;
+    cursor: pointer;
+}
+
+.column4 li a:hover {
+    color: #A79277;
+    cursor: pointer;
+}
+
+.column1 label {
+    font-family: "Montserrat", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-weight: lighter;
+    font-size: 2rem;
+}
+
+.column1 p {
+    font-family: "Montserrat", sans-serif;
+    letter-spacing: 0.1em;
+    font-weight: lighter;
+    font-size: 0.8rem;
+}

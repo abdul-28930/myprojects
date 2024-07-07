@@ -1,0 +1,2254 @@
+File: blackassign0001.txt
+
+Sentimental Analysis
+Positive Score: 33
+Negative Score: 6
+Polarity Score: 0.6923076745562136
+Subjectivity Score: 0.07129798890073494
+
+Analysis of Readability
+Average Sentence Length: 8.546875
+Percentage of Complex Words: 29.06764168190128%
+Fog Index: 15.045806672760513
+
+Other Metrics
+Average Number of Words Per Sentence: 8.546875
+Complex Word Count: 159
+Word Count: 547
+Syllable Per Word: 2.1846435100548445
+Personal Pronouns: 12
+Average Word Length: 6.669104204753199
+
+--------------------------------------
+
+File: blackassign0002.txt
+
+Sentimental Analysis
+Positive Score: 58
+Negative Score: 31
+Polarity Score: 0.30337078310819343
+Subjectivity Score: 0.11618798940445432
+
+Analysis of Readability
+Average Sentence Length: 9.575
+Percentage of Complex Words: 41.64490861618799%
+Fog Index: 20.4879634464752
+
+Other Metrics
+Average Number of Words Per Sentence: 9.575
+Complex Word Count: 319
+Word Count: 766
+Syllable Per Word: 2.5182767624020888
+Personal Pronouns: 6
+Average Word Length: 7.456919060052219
+
+--------------------------------------
+
+File: blackassign0003.txt
+
+Sentimental Analysis
+Positive Score: 38
+Negative Score: 24
+Polarity Score: 0.22580644797086374
+Subjectivity Score: 0.10316139749889951
+
+Analysis of Readability
+Average Sentence Length: 10.543859649122806
+Percentage of Complex Words: 55.074875207986686%
+Fog Index: 26.247493942843796
+
+Other Metrics
+Average Number of Words Per Sentence: 10.543859649122806
+Complex Word Count: 331
+Word Count: 601
+Syllable Per Word: 2.8452579034941765
+Personal Pronouns: 13
+Average Word Length: 8.312811980033278
+
+--------------------------------------
+
+File: blackassign0004.txt
+
+Sentimental Analysis
+Positive Score: 36
+Negative Score: 75
+Polarity Score: -0.35135134818602387
+Subjectivity Score: 0.18561872878659075
+
+Analysis of Readability
+Average Sentence Length: 12.72340425531915
+Percentage of Complex Words: 52.17391304347826%
+Fog Index: 25.958926919518962
+
+Other Metrics
+Average Number of Words Per Sentence: 12.72340425531915
+Complex Word Count: 312
+Word Count: 598
+Syllable Per Word: 2.717391304347826
+Personal Pronouns: 5
+Average Word Length: 8.11371237458194
+
+--------------------------------------
+
+File: blackassign0005.txt
+
+Sentimental Analysis
+Positive Score: 22
+Negative Score: 8
+Polarity Score: 0.4666666511111116
+Subjectivity Score: 0.08426966268463577
+
+Analysis of Readability
+Average Sentence Length: 8.9
+Percentage of Complex Words: 37.92134831460674%
+Fog Index: 18.728539325842696
+
+Other Metrics
+Average Number of Words Per Sentence: 8.9
+Complex Word Count: 135
+Word Count: 356
+Syllable Per Word: 2.337078651685393
+Personal Pronouns: 6
+Average Word Length: 7.421348314606742
+
+--------------------------------------
+
+File: blackassign0006.txt
+
+Sentimental Analysis
+Positive Score: 86
+Negative Score: 26
+Polarity Score: 0.5357142809311225
+Subjectivity Score: 0.10687022890565817
+
+Analysis of Readability
+Average Sentence Length: 13.1
+Percentage of Complex Words: 47.23282442748092%
+Fog Index: 24.13312977099237
+
+Other Metrics
+Average Number of Words Per Sentence: 13.1
+Complex Word Count: 495
+Word Count: 1048
+Syllable Per Word: 2.6001908396946565
+Personal Pronouns: 6
+Average Word Length: 7.969465648854962
+
+--------------------------------------
+
+File: blackassign0007.txt
+
+Sentimental Analysis
+Positive Score: 31
+Negative Score: 71
+Polarity Score: -0.39215685890042296
+Subjectivity Score: 0.15088757374129058
+
+Analysis of Readability
+Average Sentence Length: 9.657142857142857
+Percentage of Complex Words: 38.90532544378698%
+Fog Index: 19.424987320371937
+
+Other Metrics
+Average Number of Words Per Sentence: 9.657142857142857
+Complex Word Count: 263
+Word Count: 676
+Syllable Per Word: 2.3520710059171597
+Personal Pronouns: 1
+Average Word Length: 7.127218934911243
+
+--------------------------------------
+
+File: blackassign0008.txt
+
+Sentimental Analysis
+Positive Score: 29
+Negative Score: 9
+Polarity Score: 0.5263157756232691
+Subjectivity Score: 0.08444444425679012
+
+Analysis of Readability
+Average Sentence Length: 12.162162162162161
+Percentage of Complex Words: 56.666666666666664%
+Fog Index: 27.531531531531527
+
+Other Metrics
+Average Number of Words Per Sentence: 12.162162162162161
+Complex Word Count: 255
+Word Count: 450
+Syllable Per Word: 2.8777777777777778
+Personal Pronouns: 3
+Average Word Length: 8.36
+
+--------------------------------------
+
+File: blackassign0009.txt
+
+Sentimental Analysis
+Positive Score: 38
+Negative Score: 51
+Polarity Score: -0.14606741408913018
+Subjectivity Score: 0.15478260842646502
+
+Analysis of Readability
+Average Sentence Length: 11.73469387755102
+Percentage of Complex Words: 55.130434782608695%
+Fog Index: 26.746051464063886
+
+Other Metrics
+Average Number of Words Per Sentence: 11.73469387755102
+Complex Word Count: 317
+Word Count: 575
+Syllable Per Word: 2.8017391304347825
+Personal Pronouns: 3
+Average Word Length: 8.271304347826087
+
+--------------------------------------
+
+File: blackassign0010.txt
+
+Sentimental Analysis
+Positive Score: 136
+Negative Score: 182
+Polarity Score: -0.1446540875954274
+Subjectivity Score: 0.18307426587042355
+
+Analysis of Readability
+Average Sentence Length: 7.51948051948052
+Percentage of Complex Words: 50.201496833621185%
+Fog Index: 23.088390941240682
+
+Other Metrics
+Average Number of Words Per Sentence: 7.51948051948052
+Complex Word Count: 872
+Word Count: 1737
+Syllable Per Word: 2.639032815198618
+Personal Pronouns: 13
+Average Word Length: 7.895797351755901
+
+--------------------------------------
+
+File: blackassign0011.txt
+
+Sentimental Analysis
+Positive Score: 60
+Negative Score: 20
+Polarity Score: 0.4999999937500001
+Subjectivity Score: 0.1020408161963765
+
+Analysis of Readability
+Average Sentence Length: 13.288135593220339
+Percentage of Complex Words: 50.89285714285714%
+Fog Index: 25.672397094430995
+
+Other Metrics
+Average Number of Words Per Sentence: 13.288135593220339
+Complex Word Count: 399
+Word Count: 784
+Syllable Per Word: 2.7028061224489797
+Personal Pronouns: 3
+Average Word Length: 7.946428571428571
+
+--------------------------------------
+
+File: blackassign0012.txt
+
+Sentimental Analysis
+Positive Score: 80
+Negative Score: 24
+Polarity Score: 0.5384615332840237
+Subjectivity Score: 0.12249705521496225
+
+Analysis of Readability
+Average Sentence Length: 10.6125
+Percentage of Complex Words: 41.10718492343934%
+Fog Index: 20.68787396937574
+
+Other Metrics
+Average Number of Words Per Sentence: 10.6125
+Complex Word Count: 349
+Word Count: 849
+Syllable Per Word: 2.5547703180212014
+Personal Pronouns: 2
+Average Word Length: 7.771495877502945
+
+--------------------------------------
+
+File: blackassign0013.txt
+
+Sentimental Analysis
+Positive Score: 38
+Negative Score: 13
+Polarity Score: 0.49019606881968497
+Subjectivity Score: 0.18681318612888942
+
+Analysis of Readability
+Average Sentence Length: 10.92
+Percentage of Complex Words: 51.64835164835166%
+Fog Index: 25.027340659340666
+
+Other Metrics
+Average Number of Words Per Sentence: 10.92
+Complex Word Count: 141
+Word Count: 273
+Syllable Per Word: 2.6776556776556775
+Personal Pronouns: 3
+Average Word Length: 8.153846153846153
+
+--------------------------------------
+
+File: blackassign0014.txt
+
+Sentimental Analysis
+Positive Score: 0
+Negative Score: 0
+Polarity Score: 0.0
+Subjectivity Score: 0.0
+
+Analysis of Readability
+Average Sentence Length: 7.0
+Percentage of Complex Words: 14.285714285714285%
+Fog Index: 8.514285714285714
+
+Other Metrics
+Average Number of Words Per Sentence: 7.0
+Complex Word Count: 1
+Word Count: 7
+Syllable Per Word: 1.7142857142857142
+Personal Pronouns: 0
+Average Word Length: 5.571428571428571
+
+--------------------------------------
+
+File: blackassign0015.txt
+
+Sentimental Analysis
+Positive Score: 35
+Negative Score: 27
+Polarity Score: 0.12903225598335072
+Subjectivity Score: 0.1003236244331333
+
+Analysis of Readability
+Average Sentence Length: 10.3
+Percentage of Complex Words: 42.71844660194174%
+Fog Index: 21.2073786407767
+
+Other Metrics
+Average Number of Words Per Sentence: 10.3
+Complex Word Count: 264
+Word Count: 618
+Syllable Per Word: 2.423948220064725
+Personal Pronouns: 7
+Average Word Length: 7.47411003236246
+
+--------------------------------------
+
+File: blackassign0016.txt
+
+Sentimental Analysis
+Positive Score: 35
+Negative Score: 27
+Polarity Score: 0.12903225598335072
+Subjectivity Score: 0.1003236244331333
+
+Analysis of Readability
+Average Sentence Length: 10.3
+Percentage of Complex Words: 42.71844660194174%
+Fog Index: 21.2073786407767
+
+Other Metrics
+Average Number of Words Per Sentence: 10.3
+Complex Word Count: 264
+Word Count: 618
+Syllable Per Word: 2.423948220064725
+Personal Pronouns: 7
+Average Word Length: 7.47411003236246
+
+--------------------------------------
+
+File: blackassign0017.txt
+
+Sentimental Analysis
+Positive Score: 49
+Negative Score: 12
+Polarity Score: 0.6065573671056169
+Subjectivity Score: 0.10286677891590762
+
+Analysis of Readability
+Average Sentence Length: 9.564516129032258
+Percentage of Complex Words: 44.01349072512647%
+Fog Index: 21.431202741663494
+
+Other Metrics
+Average Number of Words Per Sentence: 9.564516129032258
+Complex Word Count: 261
+Word Count: 593
+Syllable Per Word: 2.4688026981450255
+Personal Pronouns: 5
+Average Word Length: 7.4266441821247895
+
+--------------------------------------
+
+File: blackassign0018.txt
+
+Sentimental Analysis
+Positive Score: 33
+Negative Score: 10
+Polarity Score: 0.5348837084910766
+Subjectivity Score: 0.083011582851329
+
+Analysis of Readability
+Average Sentence Length: 11.511111111111111
+Percentage of Complex Words: 45.559845559845556%
+Fog Index: 22.82838266838267
+
+Other Metrics
+Average Number of Words Per Sentence: 11.511111111111111
+Complex Word Count: 236
+Word Count: 518
+Syllable Per Word: 2.5173745173745172
+Personal Pronouns: 1
+Average Word Length: 7.685328185328185
+
+--------------------------------------
+
+File: blackassign0019.txt
+
+Sentimental Analysis
+Positive Score: 61
+Negative Score: 6
+Polarity Score: 0.8208955101358879
+Subjectivity Score: 0.07947805447274252
+
+Analysis of Readability
+Average Sentence Length: 8.78125
+Percentage of Complex Words: 48.63582443653618%
+Fog Index: 22.966829774614475
+
+Other Metrics
+Average Number of Words Per Sentence: 8.78125
+Complex Word Count: 410
+Word Count: 843
+Syllable Per Word: 2.4744958481613284
+Personal Pronouns: 5
+Average Word Length: 7.518386714116252
+
+--------------------------------------
+
+File: blackassign0020.txt
+
+Sentimental Analysis
+Positive Score: 0
+Negative Score: 0
+Polarity Score: 0.0
+Subjectivity Score: 0.0
+
+Analysis of Readability
+Average Sentence Length: 3.0
+Percentage of Complex Words: 33.33333333333333%
+Fog Index: 14.533333333333331
+
+Other Metrics
+Average Number of Words Per Sentence: 3.0
+Complex Word Count: 2
+Word Count: 6
+Syllable Per Word: 2.5
+Personal Pronouns: 0
+Average Word Length: 7.666666666666667
+
+--------------------------------------
+
+File: blackassign0021.txt
+
+Sentimental Analysis
+Positive Score: 22
+Negative Score: 47
+Polarity Score: -0.36231883532871256
+Subjectivity Score: 0.13218390779275113
+
+Analysis of Readability
+Average Sentence Length: 10.44
+Percentage of Complex Words: 46.16858237547893%
+Fog Index: 22.64343295019157
+
+Other Metrics
+Average Number of Words Per Sentence: 10.44
+Complex Word Count: 241
+Word Count: 522
+Syllable Per Word: 2.4904214559386975
+Personal Pronouns: 6
+Average Word Length: 7.553639846743295
+
+--------------------------------------
+
+File: blackassign0022.txt
+
+Sentimental Analysis
+Positive Score: 13
+Negative Score: 10
+Polarity Score: 0.1304347769376184
+Subjectivity Score: 0.129213482420149
+
+Analysis of Readability
+Average Sentence Length: 6.357142857142857
+Percentage of Complex Words: 39.8876404494382%
+Fog Index: 18.497913322632424
+
+Other Metrics
+Average Number of Words Per Sentence: 6.357142857142857
+Complex Word Count: 71
+Word Count: 178
+Syllable Per Word: 2.4157303370786516
+Personal Pronouns: 6
+Average Word Length: 7.196629213483146
+
+--------------------------------------
+
+File: blackassign0023.txt
+
+Sentimental Analysis
+Positive Score: 28
+Negative Score: 16
+Polarity Score: 0.27272726652892576
+Subjectivity Score: 0.06811145500292344
+
+Analysis of Readability
+Average Sentence Length: 10.253968253968255
+Percentage of Complex Words: 32.972136222910216%
+Fog Index: 17.290441790751387
+
+Other Metrics
+Average Number of Words Per Sentence: 10.253968253968255
+Complex Word Count: 213
+Word Count: 646
+Syllable Per Word: 2.325077399380805
+Personal Pronouns: 7
+Average Word Length: 7.007739938080495
+
+--------------------------------------
+
+File: blackassign0024.txt
+
+Sentimental Analysis
+Positive Score: 23
+Negative Score: 3
+Polarity Score: 0.7692307396449716
+Subjectivity Score: 0.0935251795196936
+
+Analysis of Readability
+Average Sentence Length: 14.631578947368421
+Percentage of Complex Words: 41.007194244604314%
+Fog Index: 22.255509276789095
+
+Other Metrics
+Average Number of Words Per Sentence: 14.631578947368421
+Complex Word Count: 114
+Word Count: 278
+Syllable Per Word: 2.3633093525179856
+Personal Pronouns: 1
+Average Word Length: 7.125899280575539
+
+--------------------------------------
+
+File: blackassign0025.txt
+
+Sentimental Analysis
+Positive Score: 21
+Negative Score: 11
+Polarity Score: 0.3124999902343753
+Subjectivity Score: 0.06866952774963621
+
+Analysis of Readability
+Average Sentence Length: 12.594594594594595
+Percentage of Complex Words: 30.686695278969957%
+Fog Index: 17.312515949425823
+
+Other Metrics
+Average Number of Words Per Sentence: 12.594594594594595
+Complex Word Count: 143
+Word Count: 466
+Syllable Per Word: 2.1351931330472103
+Personal Pronouns: 6
+Average Word Length: 6.57725321888412
+
+--------------------------------------
+
+File: blackassign0026.txt
+
+Sentimental Analysis
+Positive Score: 23
+Negative Score: 15
+Polarity Score: 0.21052631024930765
+Subjectivity Score: 0.08351648333293081
+
+Analysis of Readability
+Average Sentence Length: 10.11111111111111
+Percentage of Complex Words: 40.65934065934066%
+Fog Index: 20.30818070818071
+
+Other Metrics
+Average Number of Words Per Sentence: 10.11111111111111
+Complex Word Count: 185
+Word Count: 455
+Syllable Per Word: 2.3362637362637364
+Personal Pronouns: 2
+Average Word Length: 7.026373626373626
+
+--------------------------------------
+
+File: blackassign0027.txt
+
+Sentimental Analysis
+Positive Score: 24
+Negative Score: 26
+Polarity Score: -0.03999999920000002
+Subjectivity Score: 0.09310986947279354
+
+Analysis of Readability
+Average Sentence Length: 11.1875
+Percentage of Complex Words: 34.45065176908753%
+Fog Index: 18.255260707635014
+
+Other Metrics
+Average Number of Words Per Sentence: 11.1875
+Complex Word Count: 185
+Word Count: 537
+Syllable Per Word: 2.1675977653631286
+Personal Pronouns: 27
+Average Word Length: 6.594040968342644
+
+--------------------------------------
+
+File: blackassign0028.txt
+
+Sentimental Analysis
+Positive Score: 32
+Negative Score: 26
+Polarity Score: 0.10344827407847804
+Subjectivity Score: 0.11328124977874755
+
+Analysis of Readability
+Average Sentence Length: 12.487804878048781
+Percentage of Complex Words: 40.4296875%
+Fog Index: 21.166996951219513
+
+Other Metrics
+Average Number of Words Per Sentence: 12.487804878048781
+Complex Word Count: 207
+Word Count: 512
+Syllable Per Word: 2.3828125
+Personal Pronouns: 10
+Average Word Length: 7.46875
+
+--------------------------------------
+
+File: blackassign0029.txt
+
+Sentimental Analysis
+Positive Score: 2
+Negative Score: 0
+Polarity Score: 0.99999950000025
+Subjectivity Score: 0.24999996875000394
+
+Analysis of Readability
+Average Sentence Length: 8.0
+Percentage of Complex Words: 25.0%
+Fog Index: 13.200000000000001
+
+Other Metrics
+Average Number of Words Per Sentence: 8.0
+Complex Word Count: 2
+Word Count: 8
+Syllable Per Word: 2.0
+Personal Pronouns: 0
+Average Word Length: 6.625
+
+--------------------------------------
+
+File: blackassign0030.txt
+
+Sentimental Analysis
+Positive Score: 60
+Negative Score: 37
+Polarity Score: 0.23711339961738764
+Subjectivity Score: 0.16275167757927572
+
+Analysis of Readability
+Average Sentence Length: 7.45
+Percentage of Complex Words: 35.06711409395973%
+Fog Index: 17.006845637583893
+
+Other Metrics
+Average Number of Words Per Sentence: 7.45
+Complex Word Count: 209
+Word Count: 596
+Syllable Per Word: 2.2298657718120807
+Personal Pronouns: 7
+Average Word Length: 6.830536912751678
+
+--------------------------------------
+
+File: blackassign0031.txt
+
+Sentimental Analysis
+Positive Score: 66
+Negative Score: 36
+Polarity Score: 0.2941176441753172
+Subjectivity Score: 0.11751152060194525
+
+Analysis of Readability
+Average Sentence Length: 10.093023255813954
+Percentage of Complex Words: 43.31797235023041%
+Fog Index: 21.36439824241775
+
+Other Metrics
+Average Number of Words Per Sentence: 10.093023255813954
+Complex Word Count: 376
+Word Count: 868
+Syllable Per Word: 2.5034562211981566
+Personal Pronouns: 3
+Average Word Length: 7.502304147465438
+
+--------------------------------------
+
+File: blackassign0032.txt
+
+Sentimental Analysis
+Positive Score: 70
+Negative Score: 28
+Polarity Score: 0.4285714241982508
+Subjectivity Score: 0.13960113940227759
+
+Analysis of Readability
+Average Sentence Length: 7.3125
+Percentage of Complex Words: 32.763532763532766%
+Fog Index: 16.030413105413107
+
+Other Metrics
+Average Number of Words Per Sentence: 7.3125
+Complex Word Count: 230
+Word Count: 702
+Syllable Per Word: 2.198005698005698
+Personal Pronouns: 18
+Average Word Length: 6.7421652421652425
+
+--------------------------------------
+
+File: blackassign0033.txt
+
+Sentimental Analysis
+Positive Score: 60
+Negative Score: 25
+Polarity Score: 0.41176470103806234
+Subjectivity Score: 0.10786802016768018
+
+Analysis of Readability
+Average Sentence Length: 9.85
+Percentage of Complex Words: 38.3248730964467%
+Fog Index: 19.269949238578683
+
+Other Metrics
+Average Number of Words Per Sentence: 9.85
+Complex Word Count: 302
+Word Count: 788
+Syllable Per Word: 2.3286802030456855
+Personal Pronouns: 18
+Average Word Length: 7.153553299492386
+
+--------------------------------------
+
+File: blackassign0034.txt
+
+Sentimental Analysis
+Positive Score: 46
+Negative Score: 23
+Polarity Score: 0.33333332850241554
+Subjectivity Score: 0.11917098425013647
+
+Analysis of Readability
+Average Sentence Length: 9.19047619047619
+Percentage of Complex Words: 37.82383419689119%
+Fog Index: 18.805724154946954
+
+Other Metrics
+Average Number of Words Per Sentence: 9.19047619047619
+Complex Word Count: 219
+Word Count: 579
+Syllable Per Word: 2.3108808290155443
+Personal Pronouns: 21
+Average Word Length: 7.065630397236615
+
+--------------------------------------
+
+File: blackassign0035.txt
+
+Sentimental Analysis
+Positive Score: 27
+Negative Score: 12
+Polarity Score: 0.384615374753452
+Subjectivity Score: 0.11403508738586232
+
+Analysis of Readability
+Average Sentence Length: 7.434782608695652
+Percentage of Complex Words: 40.643274853801174%
+Fog Index: 19.231222984998734
+
+Other Metrics
+Average Number of Words Per Sentence: 7.434782608695652
+Complex Word Count: 139
+Word Count: 342
+Syllable Per Word: 2.318713450292398
+Personal Pronouns: 7
+Average Word Length: 6.970760233918129
+
+--------------------------------------
+
+File: blackassign0037.txt
+
+Sentimental Analysis
+Positive Score: 38
+Negative Score: 13
+Polarity Score: 0.49019606881968497
+Subjectivity Score: 0.15223880551570507
+
+Analysis of Readability
+Average Sentence Length: 9.305555555555555
+Percentage of Complex Words: 28.65671641791045%
+Fog Index: 15.184908789386402
+
+Other Metrics
+Average Number of Words Per Sentence: 9.305555555555555
+Complex Word Count: 96
+Word Count: 335
+Syllable Per Word: 2.0776119402985076
+Personal Pronouns: 2
+Average Word Length: 6.674626865671642
+
+--------------------------------------
+
+File: blackassign0038.txt
+
+Sentimental Analysis
+Positive Score: 67
+Negative Score: 41
+Polarity Score: 0.24074073851165984
+Subjectivity Score: 0.11249999988281251
+
+Analysis of Readability
+Average Sentence Length: 11.851851851851851
+Percentage of Complex Words: 36.45833333333333%
+Fog Index: 19.324074074074073
+
+Other Metrics
+Average Number of Words Per Sentence: 11.851851851851851
+Complex Word Count: 350
+Word Count: 960
+Syllable Per Word: 2.275
+Personal Pronouns: 11
+Average Word Length: 6.85
+
+--------------------------------------
+
+File: blackassign0039.txt
+
+Sentimental Analysis
+Positive Score: 51
+Negative Score: 68
+Polarity Score: -0.1428571416566627
+Subjectivity Score: 0.12167689149112793
+
+Analysis of Readability
+Average Sentence Length: 9.314285714285715
+Percentage of Complex Words: 35.68507157464212%
+Fog Index: 17.999742915571137
+
+Other Metrics
+Average Number of Words Per Sentence: 9.314285714285715
+Complex Word Count: 349
+Word Count: 978
+Syllable Per Word: 2.278118609406953
+Personal Pronouns: 1
+Average Word Length: 6.859918200408998
+
+--------------------------------------
+
+File: blackassign0040.txt
+
+Sentimental Analysis
+Positive Score: 36
+Negative Score: 24
+Polarity Score: 0.19999999666666674
+Subjectivity Score: 0.09740259724447631
+
+Analysis of Readability
+Average Sentence Length: 10.440677966101696
+Percentage of Complex Words: 45.12987012987013%
+Fog Index: 22.228219238388732
+
+Other Metrics
+Average Number of Words Per Sentence: 10.440677966101696
+Complex Word Count: 278
+Word Count: 616
+Syllable Per Word: 2.482142857142857
+Personal Pronouns: 10
+Average Word Length: 7.553571428571429
+
+--------------------------------------
+
+File: blackassign0041.txt
+
+Sentimental Analysis
+Positive Score: 31
+Negative Score: 29
+Polarity Score: 0.03333333277777779
+Subjectivity Score: 0.09966777392081765
+
+Analysis of Readability
+Average Sentence Length: 7.620253164556962
+Percentage of Complex Words: 35.38205980066445%
+Fog Index: 17.200925186088565
+
+Other Metrics
+Average Number of Words Per Sentence: 7.620253164556962
+Complex Word Count: 213
+Word Count: 602
+Syllable Per Word: 2.215946843853821
+Personal Pronouns: 6
+Average Word Length: 6.7574750830564785
+
+--------------------------------------
+
+File: blackassign0042.txt
+
+Sentimental Analysis
+Positive Score: 63
+Negative Score: 24
+Polarity Score: 0.44827585691636945
+Subjectivity Score: 0.12965722782465391
+
+Analysis of Readability
+Average Sentence Length: 9.867647058823529
+Percentage of Complex Words: 39.49329359165425%
+Fog Index: 19.744376260191114
+
+Other Metrics
+Average Number of Words Per Sentence: 9.867647058823529
+Complex Word Count: 265
+Word Count: 671
+Syllable Per Word: 2.4098360655737703
+Personal Pronouns: 33
+Average Word Length: 7.235469448584203
+
+--------------------------------------
+
+File: blackassign0043.txt
+
+Sentimental Analysis
+Positive Score: 1
+Negative Score: 0
+Polarity Score: 0.9999990000010001
+Subjectivity Score: 0.12499998437500197
+
+Analysis of Readability
+Average Sentence Length: 8.0
+Percentage of Complex Words: 25.0%
+Fog Index: 13.200000000000001
+
+Other Metrics
+Average Number of Words Per Sentence: 8.0
+Complex Word Count: 2
+Word Count: 8
+Syllable Per Word: 1.875
+Personal Pronouns: 0
+Average Word Length: 5.875
+
+--------------------------------------
+
+File: blackassign0044.txt
+
+Sentimental Analysis
+Positive Score: 26
+Negative Score: 0
+Polarity Score: 0.9999999615384629
+Subjectivity Score: 0.09885931521346268
+
+Analysis of Readability
+Average Sentence Length: 11.434782608695652
+Percentage of Complex Words: 41.06463878326996%
+Fog Index: 20.999768556786247
+
+Other Metrics
+Average Number of Words Per Sentence: 11.434782608695652
+Complex Word Count: 108
+Word Count: 263
+Syllable Per Word: 2.4334600760456273
+Personal Pronouns: 0
+Average Word Length: 7.403041825095057
+
+--------------------------------------
+
+File: blackassign0045.txt
+
+Sentimental Analysis
+Positive Score: 80
+Negative Score: 39
+Polarity Score: 0.3445378122307747
+Subjectivity Score: 0.16368638216824433
+
+Analysis of Readability
+Average Sentence Length: 72.7
+Percentage of Complex Words: 33.97524071526822%
+Fog Index: 42.67009628610729
+
+Other Metrics
+Average Number of Words Per Sentence: 72.7
+Complex Word Count: 247
+Word Count: 727
+Syllable Per Word: 2.233837689133425
+Personal Pronouns: 16
+Average Word Length: 6.884456671251719
+
+--------------------------------------
+
+File: blackassign0046.txt
+
+Sentimental Analysis
+Positive Score: 27
+Negative Score: 0
+Polarity Score: 0.9999999629629643
+Subjectivity Score: 0.057692307569033534
+
+Analysis of Readability
+Average Sentence Length: 8.357142857142858
+Percentage of Complex Words: 41.88034188034188%
+Fog Index: 20.094993894993895
+
+Other Metrics
+Average Number of Words Per Sentence: 8.357142857142858
+Complex Word Count: 196
+Word Count: 468
+Syllable Per Word: 2.3333333333333335
+Personal Pronouns: 0
+Average Word Length: 7.117521367521367
+
+--------------------------------------
+
+File: blackassign0047.txt
+
+Sentimental Analysis
+Positive Score: 14
+Negative Score: 6
+Polarity Score: 0.399999980000001
+Subjectivity Score: 0.05434782593927221
+
+Analysis of Readability
+Average Sentence Length: 9.2
+Percentage of Complex Words: 47.01086956521739%
+Fog Index: 22.48434782608696
+
+Other Metrics
+Average Number of Words Per Sentence: 9.2
+Complex Word Count: 173
+Word Count: 368
+Syllable Per Word: 2.5407608695652173
+Personal Pronouns: 1
+Average Word Length: 7.600543478260869
+
+--------------------------------------
+
+File: blackassign0048.txt
+
+Sentimental Analysis
+Positive Score: 3
+Negative Score: 4
+Polarity Score: -0.1428571224489825
+Subjectivity Score: 0.04794520515106024
+
+Analysis of Readability
+Average Sentence Length: 11.23076923076923
+Percentage of Complex Words: 44.52054794520548%
+Fog Index: 22.300526870389884
+
+Other Metrics
+Average Number of Words Per Sentence: 11.23076923076923
+Complex Word Count: 65
+Word Count: 146
+Syllable Per Word: 2.5205479452054793
+Personal Pronouns: 2
+Average Word Length: 7.2534246575342465
+
+--------------------------------------
+
+File: blackassign0050.txt
+
+Sentimental Analysis
+Positive Score: 24
+Negative Score: 68
+Polarity Score: -0.47826086436672977
+Subjectivity Score: 0.14067278265952174
+
+Analysis of Readability
+Average Sentence Length: 11.678571428571429
+Percentage of Complex Words: 36.69724770642202%
+Fog Index: 19.350327653997383
+
+Other Metrics
+Average Number of Words Per Sentence: 11.678571428571429
+Complex Word Count: 240
+Word Count: 654
+Syllable Per Word: 2.2966360856269112
+Personal Pronouns: 2
+Average Word Length: 7.061162079510703
+
+--------------------------------------
+
+File: blackassign0051.txt
+
+Sentimental Analysis
+Positive Score: 17
+Negative Score: 14
+Polarity Score: 0.09677419042663901
+Subjectivity Score: 0.09198813029083641
+
+Analysis of Readability
+Average Sentence Length: 11.233333333333333
+Percentage of Complex Words: 37.98219584569733%
+Fog Index: 19.68621167161227
+
+Other Metrics
+Average Number of Words Per Sentence: 11.233333333333333
+Complex Word Count: 128
+Word Count: 337
+Syllable Per Word: 2.314540059347181
+Personal Pronouns: 5
+Average Word Length: 6.857566765578635
+
+--------------------------------------
+
+File: blackassign0052.txt
+
+Sentimental Analysis
+Positive Score: 59
+Negative Score: 37
+Polarity Score: 0.22916666427951393
+Subjectivity Score: 0.1188118810410744
+
+Analysis of Readability
+Average Sentence Length: 7.214285714285714
+Percentage of Complex Words: 37.62376237623762%
+Fog Index: 17.935219236209335
+
+Other Metrics
+Average Number of Words Per Sentence: 7.214285714285714
+Complex Word Count: 304
+Word Count: 808
+Syllable Per Word: 2.2945544554455446
+Personal Pronouns: 10
+Average Word Length: 7.0111386138613865
+
+--------------------------------------
+
+File: blackassign0053.txt
+
+Sentimental Analysis
+Positive Score: 40
+Negative Score: 3
+Polarity Score: 0.8604650962682536
+Subjectivity Score: 0.13312693457236244
+
+Analysis of Readability
+Average Sentence Length: 8.075
+Percentage of Complex Words: 36.84210526315789%
+Fog Index: 17.966842105263158
+
+Other Metrics
+Average Number of Words Per Sentence: 8.075
+Complex Word Count: 119
+Word Count: 323
+Syllable Per Word: 2.3808049535603715
+Personal Pronouns: 4
+Average Word Length: 7.179566563467493
+
+--------------------------------------
+
+File: blackassign0054.txt
+
+Sentimental Analysis
+Positive Score: 4
+Negative Score: 1
+Polarity Score: 0.599999880000024
+Subjectivity Score: 0.02551020395147855
+
+Analysis of Readability
+Average Sentence Length: 10.88888888888889
+Percentage of Complex Words: 28.061224489795915%
+Fog Index: 15.580045351473922
+
+Other Metrics
+Average Number of Words Per Sentence: 10.88888888888889
+Complex Word Count: 55
+Word Count: 196
+Syllable Per Word: 2.0816326530612246
+Personal Pronouns: 0
+Average Word Length: 6.5
+
+--------------------------------------
+
+File: blackassign0055.txt
+
+Sentimental Analysis
+Positive Score: 30
+Negative Score: 9
+Polarity Score: 0.5384615246548328
+Subjectivity Score: 0.0710382512367245
+
+Analysis of Readability
+Average Sentence Length: 11.680851063829786
+Percentage of Complex Words: 28.59744990892532%
+Fog Index: 16.111320389102044
+
+Other Metrics
+Average Number of Words Per Sentence: 11.680851063829786
+Complex Word Count: 157
+Word Count: 549
+Syllable Per Word: 2.0783242258652095
+Personal Pronouns: 4
+Average Word Length: 6.389799635701275
+
+--------------------------------------
+
+File: blackassign0056.txt
+
+Sentimental Analysis
+Positive Score: 25
+Negative Score: 8
+Polarity Score: 0.5151514995408637
+Subjectivity Score: 0.0982142854219813
+
+Analysis of Readability
+Average Sentence Length: 14.0
+Percentage of Complex Words: 41.964285714285715%
+Fog Index: 22.385714285714286
+
+Other Metrics
+Average Number of Words Per Sentence: 14.0
+Complex Word Count: 141
+Word Count: 336
+Syllable Per Word: 2.392857142857143
+Personal Pronouns: 1
+Average Word Length: 7.107142857142857
+
+--------------------------------------
+
+File: blackassign0057.txt
+
+Sentimental Analysis
+Positive Score: 15
+Negative Score: 9
+Polarity Score: 0.24999998958333375
+Subjectivity Score: 0.14906832205547627
+
+Analysis of Readability
+Average Sentence Length: 5.551724137931035
+Percentage of Complex Words: 39.130434782608695%
+Fog Index: 17.87286356821589
+
+Other Metrics
+Average Number of Words Per Sentence: 5.551724137931035
+Complex Word Count: 63
+Word Count: 161
+Syllable Per Word: 2.546583850931677
+Personal Pronouns: 0
+Average Word Length: 7.726708074534161
+
+--------------------------------------
+
+File: blackassign0058.txt
+
+Sentimental Analysis
+Positive Score: 5
+Negative Score: 0
+Polarity Score: 0.99999980000004
+Subjectivity Score: 0.05434782549621929
+
+Analysis of Readability
+Average Sentence Length: 7.666666666666667
+Percentage of Complex Words: 41.30434782608695%
+Fog Index: 19.588405797101448
+
+Other Metrics
+Average Number of Words Per Sentence: 7.666666666666667
+Complex Word Count: 38
+Word Count: 92
+Syllable Per Word: 2.489130434782609
+Personal Pronouns: 2
+Average Word Length: 7.543478260869565
+
+--------------------------------------
+
+File: blackassign0059.txt
+
+Sentimental Analysis
+Positive Score: 22
+Negative Score: 37
+Polarity Score: -0.25423728382648675
+Subjectivity Score: 0.176646706057944
+
+Analysis of Readability
+Average Sentence Length: 5.859649122807017
+Percentage of Complex Words: 29.94011976047904%
+Fog Index: 14.319907553314422
+
+Other Metrics
+Average Number of Words Per Sentence: 5.859649122807017
+Complex Word Count: 100
+Word Count: 334
+Syllable Per Word: 2.122754491017964
+Personal Pronouns: 19
+Average Word Length: 6.607784431137724
+
+--------------------------------------
+
+File: blackassign0060.txt
+
+Sentimental Analysis
+Positive Score: 9
+Negative Score: 2
+Polarity Score: 0.636363578512402
+Subjectivity Score: 0.12941176318339104
+
+Analysis of Readability
+Average Sentence Length: 8.5
+Percentage of Complex Words: 30.58823529411765%
+Fog Index: 15.635294117647062
+
+Other Metrics
+Average Number of Words Per Sentence: 8.5
+Complex Word Count: 26
+Word Count: 85
+Syllable Per Word: 2.1882352941176473
+Personal Pronouns: 1
+Average Word Length: 6.729411764705882
+
+--------------------------------------
+
+File: blackassign0061.txt
+
+Sentimental Analysis
+Positive Score: 48
+Negative Score: 19
+Polarity Score: 0.43283581443528635
+Subjectivity Score: 0.11279461260472287
+
+Analysis of Readability
+Average Sentence Length: 11.0
+Percentage of Complex Words: 45.11784511784512%
+Fog Index: 22.44713804713805
+
+Other Metrics
+Average Number of Words Per Sentence: 11.0
+Complex Word Count: 268
+Word Count: 594
+Syllable Per Word: 2.5723905723905722
+Personal Pronouns: 0
+Average Word Length: 7.747474747474747
+
+--------------------------------------
+
+File: blackassign0062.txt
+
+Sentimental Analysis
+Positive Score: 10
+Negative Score: 18
+Polarity Score: -0.28571427551020445
+Subjectivity Score: 0.11067193632145479
+
+Analysis of Readability
+Average Sentence Length: 7.90625
+Percentage of Complex Words: 34.78260869565217%
+Fog Index: 17.07554347826087
+
+Other Metrics
+Average Number of Words Per Sentence: 7.90625
+Complex Word Count: 88
+Word Count: 253
+Syllable Per Word: 2.2292490118577075
+Personal Pronouns: 11
+Average Word Length: 6.976284584980237
+
+--------------------------------------
+
+File: blackassign0063.txt
+
+Sentimental Analysis
+Positive Score: 23
+Negative Score: 37
+Polarity Score: -0.23333332944444451
+Subjectivity Score: 0.1298701295890257
+
+Analysis of Readability
+Average Sentence Length: 8.716981132075471
+Percentage of Complex Words: 34.1991341991342%
+Fog Index: 17.166446132483866
+
+Other Metrics
+Average Number of Words Per Sentence: 8.716981132075471
+Complex Word Count: 158
+Word Count: 462
+Syllable Per Word: 2.220779220779221
+Personal Pronouns: 7
+Average Word Length: 6.8268398268398265
+
+--------------------------------------
+
+File: blackassign0064.txt
+
+Sentimental Analysis
+Positive Score: 25
+Negative Score: 49
+Polarity Score: -0.32432431994156324
+Subjectivity Score: 0.08747044906918387
+
+Analysis of Readability
+Average Sentence Length: 11.28
+Percentage of Complex Words: 45.0354609929078%
+Fog Index: 22.52618439716312
+
+Other Metrics
+Average Number of Words Per Sentence: 11.28
+Complex Word Count: 381
+Word Count: 846
+Syllable Per Word: 2.450354609929078
+Personal Pronouns: 16
+Average Word Length: 7.556737588652482
+
+--------------------------------------
+
+File: blackassign0065.txt
+
+Sentimental Analysis
+Positive Score: 43
+Negative Score: 22
+Polarity Score: 0.32307691810650896
+Subjectivity Score: 0.08977900540085773
+
+Analysis of Readability
+Average Sentence Length: 10.647058823529411
+Percentage of Complex Words: 32.73480662983425%
+Fog Index: 17.352746181345466
+
+Other Metrics
+Average Number of Words Per Sentence: 10.647058823529411
+Complex Word Count: 237
+Word Count: 724
+Syllable Per Word: 2.1740331491712706
+Personal Pronouns: 20
+Average Word Length: 6.7845303867403315
+
+--------------------------------------
+
+File: blackassign0066.txt
+
+Sentimental Analysis
+Positive Score: 34
+Negative Score: 25
+Polarity Score: 0.15254237029589204
+Subjectivity Score: 0.08980213076133618
+
+Analysis of Readability
+Average Sentence Length: 8.012195121951219
+Percentage of Complex Words: 32.26788432267884%
+Fog Index: 16.112031777852025
+
+Other Metrics
+Average Number of Words Per Sentence: 8.012195121951219
+Complex Word Count: 212
+Word Count: 657
+Syllable Per Word: 2.156773211567732
+Personal Pronouns: 18
+Average Word Length: 6.634703196347032
+
+--------------------------------------
+
+File: blackassign0067.txt
+
+Sentimental Analysis
+Positive Score: 25
+Negative Score: 7
+Polarity Score: 0.5624999824218756
+Subjectivity Score: 0.09785932691786138
+
+Analysis of Readability
+Average Sentence Length: 5.274193548387097
+Percentage of Complex Words: 38.837920489296636%
+Fog Index: 17.644845615073493
+
+Other Metrics
+Average Number of Words Per Sentence: 5.274193548387097
+Complex Word Count: 127
+Word Count: 327
+Syllable Per Word: 2.397553516819572
+Personal Pronouns: 1
+Average Word Length: 7.079510703363915
+
+--------------------------------------
+
+File: blackassign0068.txt
+
+Sentimental Analysis
+Positive Score: 42
+Negative Score: 7
+Polarity Score: 0.7142856997084551
+Subjectivity Score: 0.09459459441197955
+
+Analysis of Readability
+Average Sentence Length: 7.731343283582089
+Percentage of Complex Words: 34.36293436293436%
+Fog Index: 16.837711058606583
+
+Other Metrics
+Average Number of Words Per Sentence: 7.731343283582089
+Complex Word Count: 178
+Word Count: 518
+Syllable Per Word: 2.1833976833976836
+Personal Pronouns: 4
+Average Word Length: 6.936293436293436
+
+--------------------------------------
+
+File: blackassign0069.txt
+
+Sentimental Analysis
+Positive Score: 31
+Negative Score: 6
+Polarity Score: 0.6756756574141715
+Subjectivity Score: 0.20555555441358025
+
+Analysis of Readability
+Average Sentence Length: 11.25
+Percentage of Complex Words: 43.888888888888886%
+Fog Index: 22.055555555555557
+
+Other Metrics
+Average Number of Words Per Sentence: 11.25
+Complex Word Count: 79
+Word Count: 180
+Syllable Per Word: 2.272222222222222
+Personal Pronouns: 8
+Average Word Length: 7.094444444444444
+
+--------------------------------------
+
+File: blackassign0070.txt
+
+Sentimental Analysis
+Positive Score: 40
+Negative Score: 16
+Polarity Score: 0.42857142091836753
+Subjectivity Score: 0.0725388600096647
+
+Analysis of Readability
+Average Sentence Length: 11.028571428571428
+Percentage of Complex Words: 38.73056994818653%
+Fog Index: 19.903656550703182
+
+Other Metrics
+Average Number of Words Per Sentence: 11.028571428571428
+Complex Word Count: 299
+Word Count: 772
+Syllable Per Word: 2.349740932642487
+Personal Pronouns: 8
+Average Word Length: 7.075129533678757
+
+--------------------------------------
+
+File: blackassign0071.txt
+
+Sentimental Analysis
+Positive Score: 23
+Negative Score: 74
+Polarity Score: -0.5257731904559465
+Subjectivity Score: 0.2487179480802104
+
+Analysis of Readability
+Average Sentence Length: 5.064935064935065
+Percentage of Complex Words: 32.56410256410256%
+Fog Index: 15.051615051615052
+
+Other Metrics
+Average Number of Words Per Sentence: 5.064935064935065
+Complex Word Count: 127
+Word Count: 390
+Syllable Per Word: 2.1615384615384614
+Personal Pronouns: 13
+Average Word Length: 6.769230769230769
+
+--------------------------------------
+
+File: blackassign0072.txt
+
+Sentimental Analysis
+Positive Score: 65
+Negative Score: 23
+Polarity Score: 0.47727272184917363
+Subjectivity Score: 0.1752988044316757
+
+Analysis of Readability
+Average Sentence Length: 6.197530864197531
+Percentage of Complex Words: 29.482071713147413%
+Fog Index: 14.271841030937978
+
+Other Metrics
+Average Number of Words Per Sentence: 6.197530864197531
+Complex Word Count: 148
+Word Count: 502
+Syllable Per Word: 2.0298804780876494
+Personal Pronouns: 5
+Average Word Length: 6.47808764940239
+
+--------------------------------------
+
+File: blackassign0073.txt
+
+Sentimental Analysis
+Positive Score: 27
+Negative Score: 49
+Polarity Score: -0.2894736804016621
+Subjectivity Score: 0.12398042394130436
+
+Analysis of Readability
+Average Sentence Length: 11.145454545454545
+Percentage of Complex Words: 28.711256117455136%
+Fog Index: 15.942684265163871
+
+Other Metrics
+Average Number of Words Per Sentence: 11.145454545454545
+Complex Word Count: 176
+Word Count: 613
+Syllable Per Word: 2.0212071778140293
+Personal Pronouns: 6
+Average Word Length: 6.437194127243067
+
+--------------------------------------
+
+File: blackassign0074.txt
+
+Sentimental Analysis
+Positive Score: 31
+Negative Score: 26
+Polarity Score: 0.08771929670667901
+Subjectivity Score: 0.08236994207750008
+
+Analysis of Readability
+Average Sentence Length: 8.54320987654321
+Percentage of Complex Words: 39.73988439306358%
+Fog Index: 19.313237707842717
+
+Other Metrics
+Average Number of Words Per Sentence: 8.54320987654321
+Complex Word Count: 275
+Word Count: 692
+Syllable Per Word: 2.4147398843930636
+Personal Pronouns: 10
+Average Word Length: 7.196531791907514
+
+--------------------------------------
+
+File: blackassign0075.txt
+
+Sentimental Analysis
+Positive Score: 23
+Negative Score: 82
+Polarity Score: -0.5619047565532881
+Subjectivity Score: 0.2536231877931807
+
+Analysis of Readability
+Average Sentence Length: 5.175
+Percentage of Complex Words: 33.091787439613526%
+Fog Index: 15.30671497584541
+
+Other Metrics
+Average Number of Words Per Sentence: 5.175
+Complex Word Count: 137
+Word Count: 414
+Syllable Per Word: 2.181159420289855
+Personal Pronouns: 15
+Average Word Length: 6.814009661835748
+
+--------------------------------------
+
+File: blackassign0076.txt
+
+Sentimental Analysis
+Positive Score: 40
+Negative Score: 35
+Polarity Score: 0.06666666577777779
+Subjectivity Score: 0.10853835006000238
+
+Analysis of Readability
+Average Sentence Length: 10.968253968253968
+Percentage of Complex Words: 34.1534008683068%
+Fog Index: 18.048661934624306
+
+Other Metrics
+Average Number of Words Per Sentence: 10.968253968253968
+Complex Word Count: 236
+Word Count: 691
+Syllable Per Word: 2.2170767004341534
+Personal Pronouns: 5
+Average Word Length: 6.76410998552822
+
+--------------------------------------
+
+File: blackassign0077.txt
+
+Sentimental Analysis
+Positive Score: 23
+Negative Score: 13
+Polarity Score: 0.2777777700617286
+Subjectivity Score: 0.09574468059642373
+
+Analysis of Readability
+Average Sentence Length: 13.925925925925926
+Percentage of Complex Words: 31.648936170212767%
+Fog Index: 18.229944838455477
+
+Other Metrics
+Average Number of Words Per Sentence: 13.925925925925926
+Complex Word Count: 119
+Word Count: 376
+Syllable Per Word: 2.2632978723404253
+Personal Pronouns: 1
+Average Word Length: 7.023936170212766
+
+--------------------------------------
+
+File: blackassign0078.txt
+
+Sentimental Analysis
+Positive Score: 36
+Negative Score: 25
+Polarity Score: 0.1803278658962645
+Subjectivity Score: 0.09983633371548882
+
+Analysis of Readability
+Average Sentence Length: 15.275
+Percentage of Complex Words: 36.17021276595745%
+Fog Index: 20.578085106382982
+
+Other Metrics
+Average Number of Words Per Sentence: 15.275
+Complex Word Count: 221
+Word Count: 611
+Syllable Per Word: 2.337152209492635
+Personal Pronouns: 1
+Average Word Length: 7.153846153846154
+
+--------------------------------------
+
+File: blackassign0079.txt
+
+Sentimental Analysis
+Positive Score: 32
+Negative Score: 52
+Polarity Score: -0.238095235260771
+Subjectivity Score: 0.10552763805838236
+
+Analysis of Readability
+Average Sentence Length: 10.075949367088608
+Percentage of Complex Words: 37.185929648241206%
+Fog Index: 18.904751606131924
+
+Other Metrics
+Average Number of Words Per Sentence: 10.075949367088608
+Complex Word Count: 296
+Word Count: 796
+Syllable Per Word: 2.258793969849246
+Personal Pronouns: 6
+Average Word Length: 6.9459798994974875
+
+--------------------------------------
+
+File: blackassign0080.txt
+
+Sentimental Analysis
+Positive Score: 36
+Negative Score: 11
+Polarity Score: 0.5319148822996834
+Subjectivity Score: 0.02647887322451894
+
+Analysis of Readability
+Average Sentence Length: 9.752747252747254
+Percentage of Complex Words: 31.323943661971832%
+Fog Index: 16.430676365887635
+
+Other Metrics
+Average Number of Words Per Sentence: 9.752747252747254
+Complex Word Count: 556
+Word Count: 1775
+Syllable Per Word: 2.0985915492957745
+Personal Pronouns: 2
+Average Word Length: 6.5504225352112675
+
+--------------------------------------
+
+File: blackassign0081.txt
+
+Sentimental Analysis
+Positive Score: 37
+Negative Score: 49
+Polarity Score: -0.1395348820984316
+Subjectivity Score: 0.10790464227364537
+
+Analysis of Readability
+Average Sentence Length: 9.602409638554217
+Percentage of Complex Words: 36.01003764115433%
+Fog Index: 18.24497891188342
+
+Other Metrics
+Average Number of Words Per Sentence: 9.602409638554217
+Complex Word Count: 287
+Word Count: 797
+Syllable Per Word: 2.2885821831869513
+Personal Pronouns: 12
+Average Word Length: 7.081555834378921
+
+--------------------------------------
+
+File: blackassign0082.txt
+
+Sentimental Analysis
+Positive Score: 28
+Negative Score: 71
+Polarity Score: -0.43434342995612696
+Subjectivity Score: 0.12282878396671366
+
+Analysis of Readability
+Average Sentence Length: 13.433333333333334
+Percentage of Complex Words: 41.811414392059554%
+Fog Index: 22.097899090157156
+
+Other Metrics
+Average Number of Words Per Sentence: 13.433333333333334
+Complex Word Count: 337
+Word Count: 806
+Syllable Per Word: 2.446650124069479
+Personal Pronouns: 0
+Average Word Length: 7.30893300248139
+
+--------------------------------------
+
+File: blackassign0083.txt
+
+Sentimental Analysis
+Positive Score: 0
+Negative Score: 0
+Polarity Score: 0.0
+Subjectivity Score: 0.0
+
+Analysis of Readability
+Average Sentence Length: 6.0
+Percentage of Complex Words: 16.666666666666664%
+Fog Index: 9.066666666666666
+
+Other Metrics
+Average Number of Words Per Sentence: 6.0
+Complex Word Count: 1
+Word Count: 6
+Syllable Per Word: 1.8333333333333333
+Personal Pronouns: 0
+Average Word Length: 6.166666666666667
+
+--------------------------------------
+
+File: blackassign0084.txt
+
+Sentimental Analysis
+Positive Score: 1
+Negative Score: 0
+Polarity Score: 0.9999990000010001
+Subjectivity Score: 0.11111109876543349
+
+Analysis of Readability
+Average Sentence Length: 4.5
+Percentage of Complex Words: 44.44444444444444%
+Fog Index: 19.57777777777778
+
+Other Metrics
+Average Number of Words Per Sentence: 4.5
+Complex Word Count: 4
+Word Count: 9
+Syllable Per Word: 2.111111111111111
+Personal Pronouns: 0
+Average Word Length: 6.777777777777778
+
+--------------------------------------
+
+File: blackassign0085.txt
+
+Sentimental Analysis
+Positive Score: 37
+Negative Score: 34
+Polarity Score: 0.04225352053164056
+Subjectivity Score: 0.10099573243101603
+
+Analysis of Readability
+Average Sentence Length: 5.809917355371901
+Percentage of Complex Words: 43.3854907539118%
+Fog Index: 19.678163243713485
+
+Other Metrics
+Average Number of Words Per Sentence: 5.809917355371901
+Complex Word Count: 305
+Word Count: 703
+Syllable Per Word: 2.391180654338549
+Personal Pronouns: 6
+Average Word Length: 7.2588904694167855
+
+--------------------------------------
+
+File: blackassign0086.txt
+
+Sentimental Analysis
+Positive Score: 55
+Negative Score: 16
+Polarity Score: 0.5492957669113272
+Subjectivity Score: 0.08658536574806663
+
+Analysis of Readability
+Average Sentence Length: 8.817204301075268
+Percentage of Complex Words: 35.731707317073166%
+Fog Index: 17.819564647259376
+
+Other Metrics
+Average Number of Words Per Sentence: 8.817204301075268
+Complex Word Count: 293
+Word Count: 820
+Syllable Per Word: 2.225609756097561
+Personal Pronouns: 5
+Average Word Length: 6.946341463414634
+
+--------------------------------------
+
+File: blackassign0087.txt
+
+Sentimental Analysis
+Positive Score: 30
+Negative Score: 34
+Polarity Score: -0.062499999023437516
+Subjectivity Score: 0.12549019583237217
+
+Analysis of Readability
+Average Sentence Length: 10.851063829787234
+Percentage of Complex Words: 31.56862745098039%
+Fog Index: 16.96787651230705
+
+Other Metrics
+Average Number of Words Per Sentence: 10.851063829787234
+Complex Word Count: 161
+Word Count: 510
+Syllable Per Word: 2.1901960784313728
+Personal Pronouns: 3
+Average Word Length: 6.827450980392157
+
+--------------------------------------
+
+File: blackassign0088.txt
+
+Sentimental Analysis
+Positive Score: 16
+Negative Score: 44
+Polarity Score: -0.46666665888888903
+Subjectivity Score: 0.06825938558787328
+
+Analysis of Readability
+Average Sentence Length: 15.421052631578947
+Percentage of Complex Words: 40.386803185438%
+Fog Index: 22.323142326806778
+
+Other Metrics
+Average Number of Words Per Sentence: 15.421052631578947
+Complex Word Count: 355
+Word Count: 879
+Syllable Per Word: 2.419795221843003
+Personal Pronouns: 1
+Average Word Length: 7.103526734926052
+
+--------------------------------------
+
+File: blackassign0089.txt
+
+Sentimental Analysis
+Positive Score: 17
+Negative Score: 42
+Polarity Score: -0.4237288063774779
+Subjectivity Score: 0.1319910511588567
+
+Analysis of Readability
+Average Sentence Length: 8.764705882352942
+Percentage of Complex Words: 36.68903803131991%
+Fog Index: 18.18149756546914
+
+Other Metrics
+Average Number of Words Per Sentence: 8.764705882352942
+Complex Word Count: 164
+Word Count: 447
+Syllable Per Word: 2.3266219239373602
+Personal Pronouns: 6
+Average Word Length: 7.076062639821029
+
+--------------------------------------
+
+File: blackassign0090.txt
+
+Sentimental Analysis
+Positive Score: 35
+Negative Score: 48
+Polarity Score: -0.15662650413703008
+Subjectivity Score: 0.15930902080746828
+
+Analysis of Readability
+Average Sentence Length: 7.04054054054054
+Percentage of Complex Words: 34.93282149712092%
+Fog Index: 16.789344815064585
+
+Other Metrics
+Average Number of Words Per Sentence: 7.04054054054054
+Complex Word Count: 182
+Word Count: 521
+Syllable Per Word: 2.251439539347409
+Personal Pronouns: 37
+Average Word Length: 6.978886756238004
+
+--------------------------------------
+
+File: blackassign0091.txt
+
+Sentimental Analysis
+Positive Score: 24
+Negative Score: 27
+Polarity Score: -0.05882352825836219
+Subjectivity Score: 0.1073684208265928
+
+Analysis of Readability
+Average Sentence Length: 12.837837837837839
+Percentage of Complex Words: 39.78947368421053%
+Fog Index: 21.050924608819347
+
+Other Metrics
+Average Number of Words Per Sentence: 12.837837837837839
+Complex Word Count: 189
+Word Count: 475
+Syllable Per Word: 2.3621052631578947
+Personal Pronouns: 12
+Average Word Length: 7.109473684210526
+
+--------------------------------------
+
+File: blackassign0092.txt
+
+Sentimental Analysis
+Positive Score: 1
+Negative Score: 0
+Polarity Score: 0.9999990000010001
+Subjectivity Score: 0.1428571224489825
+
+Analysis of Readability
+Average Sentence Length: 7.0
+Percentage of Complex Words: 28.57142857142857%
+Fog Index: 14.228571428571428
+
+Other Metrics
+Average Number of Words Per Sentence: 7.0
+Complex Word Count: 2
+Word Count: 7
+Syllable Per Word: 2.0
+Personal Pronouns: 0
+Average Word Length: 6.285714285714286
+
+--------------------------------------
+
+File: blackassign0093.txt
+
+Sentimental Analysis
+Positive Score: 4
+Negative Score: 3
+Polarity Score: 0.1428571224489825
+Subjectivity Score: 0.09459459331628928
+
+Analysis of Readability
+Average Sentence Length: 7.4
+Percentage of Complex Words: 27.027027027027028%
+Fog Index: 13.770810810810813
+
+Other Metrics
+Average Number of Words Per Sentence: 7.4
+Complex Word Count: 20
+Word Count: 74
+Syllable Per Word: 2.081081081081081
+Personal Pronouns: 2
+Average Word Length: 6.391891891891892
+
+--------------------------------------
+
+File: blackassign0094.txt
+
+Sentimental Analysis
+Positive Score: 32
+Negative Score: 49
+Polarity Score: -0.20987654061880814
+Subjectivity Score: 0.14835164807994203
+
+Analysis of Readability
+Average Sentence Length: 8.666666666666666
+Percentage of Complex Words: 32.78388278388278%
+Fog Index: 16.580219780219778
+
+Other Metrics
+Average Number of Words Per Sentence: 8.666666666666666
+Complex Word Count: 179
+Word Count: 546
+Syllable Per Word: 2.141025641025641
+Personal Pronouns: 13
+Average Word Length: 6.686813186813187
+
+--------------------------------------
+
+File: blackassign0095.txt
+
+Sentimental Analysis
+Positive Score: 8
+Negative Score: 25
+Polarity Score: -0.5151514995408637
+Subjectivity Score: 0.10855263122186634
+
+Analysis of Readability
+Average Sentence Length: 8.444444444444445
+Percentage of Complex Words: 37.17105263157895%
+Fog Index: 18.24619883040936
+
+Other Metrics
+Average Number of Words Per Sentence: 8.444444444444445
+Complex Word Count: 113
+Word Count: 304
+Syllable Per Word: 2.2598684210526314
+Personal Pronouns: 4
+Average Word Length: 6.805921052631579
+
+--------------------------------------
+
+File: blackassign0096.txt
+
+Sentimental Analysis
+Positive Score: 27
+Negative Score: 57
+Polarity Score: -0.35714285289115655
+Subjectivity Score: 0.15328467125313017
+
+Analysis of Readability
+Average Sentence Length: 11.416666666666666
+Percentage of Complex Words: 42.33576642335766%
+Fog Index: 21.50097323600973
+
+Other Metrics
+Average Number of Words Per Sentence: 11.416666666666666
+Complex Word Count: 232
+Word Count: 548
+Syllable Per Word: 2.406934306569343
+Personal Pronouns: 4
+Average Word Length: 7.271897810218978
+
+--------------------------------------
+
+File: blackassign0097.txt
+
+Sentimental Analysis
+Positive Score: 21
+Negative Score: 35
+Polarity Score: -0.24999999553571436
+Subjectivity Score: 0.13429256562519767
+
+Analysis of Readability
+Average Sentence Length: 10.692307692307692
+Percentage of Complex Words: 30.455635491606714%
+Fog Index: 16.459177273565764
+
+Other Metrics
+Average Number of Words Per Sentence: 10.692307692307692
+Complex Word Count: 127
+Word Count: 417
+Syllable Per Word: 2.1007194244604315
+Personal Pronouns: 7
+Average Word Length: 6.743405275779376
+
+--------------------------------------
+
+File: blackassign0098.txt
+
+Sentimental Analysis
+Positive Score: 7
+Negative Score: 3
+Polarity Score: 0.39999996000000404
+Subjectivity Score: 0.042372881176386094
+
+Analysis of Readability
+Average Sentence Length: 10.727272727272727
+Percentage of Complex Words: 37.28813559322034%
+Fog Index: 19.206163328197228
+
+Other Metrics
+Average Number of Words Per Sentence: 10.727272727272727
+Complex Word Count: 88
+Word Count: 236
+Syllable Per Word: 2.25
+Personal Pronouns: 0
+Average Word Length: 6.970338983050848
+
+--------------------------------------
+
+File: blackassign0099.txt
+
+Sentimental Analysis
+Positive Score: 0
+Negative Score: 0
+Polarity Score: 0.0
+Subjectivity Score: 0.0
+
+Analysis of Readability
+Average Sentence Length: 3.0
+Percentage of Complex Words: 50.0%
+Fog Index: 21.200000000000003
+
+Other Metrics
+Average Number of Words Per Sentence: 3.0
+Complex Word Count: 3
+Word Count: 6
+Syllable Per Word: 2.5
+Personal Pronouns: 0
+Average Word Length: 7.666666666666667
+
+--------------------------------------
+
+File: blackassign0100.txt
+
+Sentimental Analysis
+Positive Score: 1
+Negative Score: 0
+Polarity Score: 0.9999990000010001
+Subjectivity Score: 0.16666663888889352
+
+Analysis of Readability
+Average Sentence Length: 3.0
+Percentage of Complex Words: 16.666666666666664%
+Fog Index: 7.866666666666666
+
+Other Metrics
+Average Number of Words Per Sentence: 3.0
+Complex Word Count: 1
+Word Count: 6
+Syllable Per Word: 1.6666666666666667
+Personal Pronouns: 0
+Average Word Length: 5.666666666666667
+
+--------------------------------------
+
